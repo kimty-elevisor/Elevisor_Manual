@@ -30,6 +30,8 @@ pip install --upgrade myapi
 {% endtab %}
 {% endtabs %}
 
+<figure><img src=".gitbook/assets/2025-01-23 09 55 04.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Good to know:** Using tabs to separate out different languages is a great way to present technical examples or code documentation without cramming your docs with extra sections or pages per language.
 {% endhint %}
