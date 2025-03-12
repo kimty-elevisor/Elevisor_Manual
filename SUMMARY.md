@@ -1,7 +1,7 @@
 # Table of contents
 
 * [소개](README.md)
-  * [Elevisor for 제품 소개](undefined/elevisor-for.md)
+  * [Elevisor for PostgreSQL 소개](undefined/elevisor-for-postgresql.md)
 * [Elevisor\_manual\_test](<README (1).md>)
 * [image\_test](image_test.md)
 * [서식페이지](undefined-1.md)
